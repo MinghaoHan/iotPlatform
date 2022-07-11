@@ -1,0 +1,13 @@
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/install/strip.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/install.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/install/local.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/list_install_components.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/edit_cache.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/CMakeFiles/rebuild_cache.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/install/strip.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/edit_cache.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/main.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/rebuild_cache.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/list_install_components.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/install/local.dir
+/home/zack/AscendProjects/face_recognition_camera/build/cmake/src/CMakeFiles/install.dir

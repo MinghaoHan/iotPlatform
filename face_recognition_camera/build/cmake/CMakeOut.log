@@ -1,0 +1,5 @@
+-- env INC_PATH: /usr/local/Ascend/ascend-toolkit/latest/ascend-toolkit/5.0.2.alpha003/acllib_linux.aarch64
+-- env LIB_PATH: /usr/local/Ascend/ascend-toolkit/latest/ascend-toolkit/5.0/arm64-linux/acllib/lib64/stub
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zack/AscendProjects/face_recognition_camera/build/cmake
